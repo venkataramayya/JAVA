@@ -1,0 +1,239 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OutofMemoty",
+            "request": "launch",
+            "mainClass": "OutofMemoty",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Str",
+            "request": "launch",
+            "mainClass": "Str",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "ComparatorExample",
+            "request": "launch",
+            "mainClass": "ComparatorExample",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Hashmap",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Priorityqueue",
+            "request": "launch",
+            "mainClass": "Priorityqueue",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "VectorAndStack",
+            "request": "launch",
+            "mainClass": "VectorAndStack",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListMethods",
+            "request": "launch",
+            "mainClass": "LinkedListMethods",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "ALpractice",
+            "request": "launch",
+            "mainClass": "ALpractice",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "VLpractice",
+            "request": "launch",
+            "mainClass": "VLpractice",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Poly1",
+            "request": "launch",
+            "mainClass": "Poly1",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Poly",
+            "request": "launch",
+            "mainClass": "Poly",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "PolyMl",
+            "request": "launch",
+            "mainClass": "PolyMl",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Hii",
+            "request": "launch",
+            "mainClass": "Hii",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Encap",
+            "request": "launch",
+            "mainClass": "Encap",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "OverLoad",
+            "request": "launch",
+            "mainClass": "OverLoad",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Inhe",
+            "request": "launch",
+            "mainClass": "Inhe",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Demos",
+            "request": "launch",
+            "mainClass": "Demos",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "This",
+            "request": "launch",
+            "mainClass": "This",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Statics",
+            "request": "launch",
+            "mainClass": "Statics",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "PlaneCircle",
+            "request": "launch",
+            "mainClass": "PlaneCircle",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "PassByValue",
+            "request": "launch",
+            "mainClass": "PassByValue",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "Second",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Const",
+            "request": "launch",
+            "mainClass": "Const",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Scope",
+            "request": "launch",
+            "mainClass": "Scope",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "Forloop",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "patt",
+            "request": "launch",
+            "mainClass": "patt",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "patt",
+            "request": "launch",
+            "mainClass": "patt",
+            "projectName": "java_982c5331"
+        }
+    ]
+}
