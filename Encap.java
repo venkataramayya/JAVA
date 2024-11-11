@@ -1,4 +1,4 @@
-public class Encap {
+public class Encaps {
     public static void main(String[] args){
         Encaps encap=new Encaps();
         encap.setroll(1);

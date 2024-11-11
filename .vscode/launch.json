@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hasmap",
+            "request": "launch",
+            "mainClass": "Hasmap",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
+            "name": "StudentMarks",
+            "request": "launch",
+            "mainClass": "StudentMarks",
+            "projectName": "java_982c5331"
+        },
+        {
+            "type": "java",
             "name": "OutofMemoty",
             "request": "launch",
             "mainClass": "OutofMemoty",
